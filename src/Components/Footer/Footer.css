@@ -1,0 +1,14 @@
+footer {
+    background-color: #2E0039;
+    color:  #FFFFFF;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 10px 0;
+  }
+
+  footer p {
+    line-height: 18px;
+    font-size: 12px;
+    font-weight: 400;
+  }

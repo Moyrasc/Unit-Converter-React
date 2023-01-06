@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px 0;
+    
+}
+header h1 {    
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 30px;
+    color:#2E0039;
+}
+header i {
+    margin-top: 8px;
+}
